@@ -1,2 +1,2 @@
 # TP1IHM
-proto jeu canvas
+proto jeu canvas fait par Kelyan et Youssef
