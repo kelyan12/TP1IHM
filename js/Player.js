@@ -1,6 +1,6 @@
 import ObjetGraphique from "./objetGraphique.js";
 
-export default class Player extends ObjetGraphique {
+export default class player extends objetGraphique {
     constructor(x, y, couleur, taille) {
         // x, y, couleur, largeur, hauteur
         super(x, y, couleur, taille, taille);

@@ -1,4 +1,4 @@
-export default class ObjetGraphique {
+export default class objetGraphique {
     x = 0;
     y = 0;
     couleur = "black";
